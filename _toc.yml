@@ -1,0 +1,26 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+parts:
+    - caption: Information
+      chapters: 
+      - file: registration
+      - file: schedule
+      # - file: faq
+    - caption: Courses
+      chapters:
+      - file: overview
+      - file: prodevenv
+      - file: pbasiclevel1
+      - file: pbasiclevel2
+      - file: pbasiclevel3
+
+    - caption: Learning Design
+      chapters:
+      - file: learningdesign
+    
+    
+    
+        
